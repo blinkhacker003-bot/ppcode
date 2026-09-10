@@ -1,0 +1,1 @@
+SoundState=true_true_true_false_false;FastPlay=false;Intro=true;StopMsg=3;TurboSpinMsg=0;BetInfo=0_0;BatterySaver=false;ShowCCH=false;ShowFPH=true;CustomGameStoredData=;Coins=false;Volume=1;InitialScreen=9,10,9_3,4,3_2,1,2_3,4,3_9,10,9;SBPLock=true
